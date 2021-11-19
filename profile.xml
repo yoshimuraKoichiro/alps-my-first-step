@@ -10,6 +10,7 @@
     <descriptor id="id" def="https://schema.org/identifier" title="identifier"/>
     <descriptor id="articleBody" def="https://schema.org/articleBody" title="article body"/>
     <descriptor id="dateCreated" def="https://schema.org/dateCreated" title="create date"/>
+    <descriptor id="dateUpdated" def="https://schema.org/dateUpdated" title="update date"/>
 
     <!-- Taxonomy -->
     <descriptor id="Index" title="Home">
